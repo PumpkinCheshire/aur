@@ -1,0 +1,33 @@
+[submodule "cain-ncnn-vulkan-git"]
+	path = cain-ncnn-vulkan-git
+	url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
+[submodule "dain-ncnn-vulkan-git"]
+	path = dain-ncnn-vulkan-git
+	url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
+[submodule "python-speech"]
+	path = python-speech
+	url = ssh://aur@aur.archlinux.org/python-speech.git
+[submodule "python-sansio-multipart"]
+	path = python-sansio-multipart
+	url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
+[submodule "python-pyautogui"]
+	path = python-pyautogui
+	url = ssh://aur@aur.archlinux.org/python-pyautogui.git
+[submodule "python-proto-plus"]
+	path = python-proto-plus
+	url = ssh://aur@aur.archlinux.org/python-proto-plus.git
+[submodule "python-langcodes"]
+	path = python-langcodes
+	url = ssh://aur@aur.archlinux.org/python-langcodes.git
+[submodule "python-haversine"]
+	path = python-haversine
+	url = ssh://aur@aur.archlinux.org/python-haversine.git
+[submodule "python-eve-git"]
+	path = python-eve-git
+	url = ssh://aur@aur.archlinux.org/python-eve-git.git
+[submodule "python-auditok"]
+	path = python-auditok
+	url = ssh://aur@aur.archlinux.org/python-auditok.git
+[submodule "python-asks"]
+	path = python-asks
+	url = ssh://aur@aur.archlinux.org/python-asks.git
