@@ -31,3 +31,30 @@
 [submodule "python-asks"]
 	path = python-asks
 	url = ssh://aur@aur.archlinux.org/python-asks.git
+[submodule "python-overly"]
+	path = python-overly
+	url = ssh://aur@aur.archlinux.org/python-overly.git
+[submodule "marp-cli"]
+	path = marp-cli
+	url = ssh://aur@aur.archlinux.org/marp-cli.git
+[submodule "marp-cli-bin"]
+	path = marp-cli-bin
+	url = ssh://aur@aur.archlinux.org/marp-cli-bin.git
+[submodule "whatweb-git"]
+	path = whatweb-git
+	url = ssh://aur@aur.archlinux.org/whatweb-git.git
+[submodule "whatweb"]
+	path = whatweb
+	url = ssh://aur@aur.archlinux.org/whatweb.git
+[submodule "google-java-format"]
+	path = google-java-format
+	url = ssh://aur@aur.archlinux.org/google-java-format.git
+[submodule "python-oct2py"]
+	path = python-oct2py
+	url = ssh://aur@aur.archlinux.org/python-oct2py.git
+[submodule "python-geoplot"]
+	path = python-geoplot
+	url = ssh://aur@aur.archlinux.org/python-geoplot.git
+[submodule "python-mplleaflet"]
+	path = python-mplleaflet
+	url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
