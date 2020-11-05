@@ -1,4 +1,3 @@
-*.git
 *.log
 *.rpm
 *.deb
@@ -11,7 +10,6 @@
 *.jar
 *.tgz
 waf*
-s*.png
 *.pdf
 */pkg
 */src
