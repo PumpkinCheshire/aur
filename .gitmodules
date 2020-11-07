@@ -58,3 +58,6 @@
 [submodule "python-mplleaflet"]
 	path = python-mplleaflet
 	url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
+[submodule "python-anyconfig"]
+	path = python-anyconfig
+	url = ssh://aur@aur.archlinux.org/python-anyconfig.git
