@@ -71,8 +71,8 @@ url = ssh://aur@aur.archlinux.org/github-release.git
 path = golang-github-github-release-github-release
 url = ssh://aur@aur.archlinux.org/golang-github-github-release-github-release.git
 [submodule "golang-github-dustin-go-humanize"]
-path = golang-github-github-dustin-go-humanize
-url = ssh://aur@aur.archlinux.org/golang-github-github-dustin-go-humanize.git
-[submodule "golang-github-github-voxelbrain-goptions"]
-path = golang-github-github-voxelbrain-goptions
-url = ssh://aur@aur.archlinux.org/golang-github-github-voxelbrain-goptions.git
+path = golang-github-dustin-go-humanize
+url = ssh://aur@aur.archlinux.org/golang-github-dustin-go-humanize.git
+[submodule "golang-github-voxelbrain-goptions"]
+path = golang-github-voxelbrain-goptions
+url = ssh://aur@aur.archlinux.org/golang-github-voxelbrain-goptions.git
