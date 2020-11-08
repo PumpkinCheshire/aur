@@ -1,69 +1,78 @@
 [submodule "cain-ncnn-vulkan-git"]
-	path = cain-ncnn-vulkan-git
-	url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
+path = cain-ncnn-vulkan-git
+url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
 [submodule "dain-ncnn-vulkan-git"]
-	path = dain-ncnn-vulkan-git
-	url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
+path = dain-ncnn-vulkan-git
+url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
 [submodule "python-speech"]
-	path = python-speech
-	url = ssh://aur@aur.archlinux.org/python-speech.git
+path = python-speech
+url = ssh://aur@aur.archlinux.org/python-speech.git
 [submodule "python-sansio-multipart"]
-	path = python-sansio-multipart
-	url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
+path = python-sansio-multipart
+url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
 [submodule "python-pyautogui"]
-	path = python-pyautogui
-	url = ssh://aur@aur.archlinux.org/python-pyautogui.git
+path = python-pyautogui
+url = ssh://aur@aur.archlinux.org/python-pyautogui.git
 [submodule "python-proto-plus"]
-	path = python-proto-plus
-	url = ssh://aur@aur.archlinux.org/python-proto-plus.git
+path = python-proto-plus
+url = ssh://aur@aur.archlinux.org/python-proto-plus.git
 [submodule "python-langcodes"]
-	path = python-langcodes
-	url = ssh://aur@aur.archlinux.org/python-langcodes.git
+path = python-langcodes
+url = ssh://aur@aur.archlinux.org/python-langcodes.git
 [submodule "python-haversine"]
-	path = python-haversine
-	url = ssh://aur@aur.archlinux.org/python-haversine.git
+path = python-haversine
+url = ssh://aur@aur.archlinux.org/python-haversine.git
 [submodule "python-eve-git"]
-	path = python-eve-git
-	url = ssh://aur@aur.archlinux.org/python-eve-git.git
+path = python-eve-git
+url = ssh://aur@aur.archlinux.org/python-eve-git.git
 [submodule "python-auditok"]
-	path = python-auditok
-	url = ssh://aur@aur.archlinux.org/python-auditok.git
+path = python-auditok
+url = ssh://aur@aur.archlinux.org/python-auditok.git
 [submodule "python-asks"]
-	path = python-asks
-	url = ssh://aur@aur.archlinux.org/python-asks.git
+path = python-asks
+url = ssh://aur@aur.archlinux.org/python-asks.git
 [submodule "python-overly"]
-	path = python-overly
-	url = ssh://aur@aur.archlinux.org/python-overly.git
+path = python-overly
+url = ssh://aur@aur.archlinux.org/python-overly.git
 [submodule "marp-cli"]
-	path = marp-cli
-	url = ssh://aur@aur.archlinux.org/marp-cli.git
+path = marp-cli
+url = ssh://aur@aur.archlinux.org/marp-cli.git
 [submodule "marp-cli-bin"]
-	path = marp-cli-bin
-	url = ssh://aur@aur.archlinux.org/marp-cli-bin.git
+path = marp-cli-bin
+url = ssh://aur@aur.archlinux.org/marp-cli-bin.git
 [submodule "whatweb-git"]
-	path = whatweb-git
-	url = ssh://aur@aur.archlinux.org/whatweb-git.git
+path = whatweb-git
+url = ssh://aur@aur.archlinux.org/whatweb-git.git
 [submodule "whatweb"]
-	path = whatweb
-	url = ssh://aur@aur.archlinux.org/whatweb.git
+path = whatweb
+url = ssh://aur@aur.archlinux.org/whatweb.git
 [submodule "google-java-format"]
-	path = google-java-format
-	url = ssh://aur@aur.archlinux.org/google-java-format.git
+path = google-java-format
+url = ssh://aur@aur.archlinux.org/google-java-format.git
 [submodule "python-oct2py"]
-	path = python-oct2py
-	url = ssh://aur@aur.archlinux.org/python-oct2py.git
+path = python-oct2py
+url = ssh://aur@aur.archlinux.org/python-oct2py.git
 [submodule "python-geoplot"]
-	path = python-geoplot
-	url = ssh://aur@aur.archlinux.org/python-geoplot.git
+path = python-geoplot
+url = ssh://aur@aur.archlinux.org/python-geoplot.git
 [submodule "python-mplleaflet"]
-	path = python-mplleaflet
-	url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
+path = python-mplleaflet
+url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
 [submodule "python-anyconfig"]
-	path = python-anyconfig
-	url = ssh://aur@aur.archlinux.org/python-anyconfig.git
+path = python-anyconfig
+url = ssh://aur@aur.archlinux.org/python-anyconfig.git
 [submodule "github-release-bin"]
-	path = github-release-bin
-	url = ssh://aur@aur.archlinux.org/github-release-bin.git
+path = github-release-bin
+url = ssh://aur@aur.archlinux.org/github-release-bin.git
 [submodule "github-release"]
-	path = github-release
-	url = ssh://aur@aur.archlinux.org/github-release.git
+path = github-release
+url = ssh://aur@aur.archlinux.org/github-release.git
+[submodule "golang-github-github-release-github-release"]
+path = golang-github-github-release-github-release
+url = ssh://aur@aur.archlinux.org/golang-github-github-release-github-release.git
+[submodule "golang-github-dustin-go-humanize"]
+path = golang-github-github-dustin-go-humanize
+url = ssh://aur@aur.archlinux.org/golang-github-github-dustin-go-humanize.git
+[submodule "golang-github-github-voxelbrain-goptions"]
+path = golang-github-github-voxelbrain-goptions
+url = ssh://aur@aur.archlinux.org/golang-github-github-voxelbrain-goptions.git
