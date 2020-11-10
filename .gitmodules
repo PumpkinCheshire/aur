@@ -28,6 +28,9 @@ url = ssh://aur@aur.archlinux.org/python-eve-git.git
 [submodule "python-auditok"]
 path = python-auditok
 url = ssh://aur@aur.archlinux.org/python-auditok.git
+[submodule "python-mapclassify"]
+path = python-auditok
+url = ssh://aur@aur.archlinux.org/python-mapclassify.git
 [submodule "python-asks"]
 path = python-asks
 url = ssh://aur@aur.archlinux.org/python-asks.git
