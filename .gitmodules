@@ -91,3 +91,6 @@ url = ssh://aur@aur.archlinux.org/whatweb-git.git
 [submodule "whatweb"]
 path = whatweb
 url = ssh://aur@aur.archlinux.org/whatweb.git
+[submodule "python-google-cloud-speech"]
+	path = python-google-cloud-speech
+	url = ssh://aur@aur.archlinux.org/python-google-cloud-speech.git
