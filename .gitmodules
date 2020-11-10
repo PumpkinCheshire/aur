@@ -4,66 +4,6 @@ url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
 [submodule "dain-ncnn-vulkan-git"]
 path = dain-ncnn-vulkan-git
 url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
-[submodule "python-speech"]
-path = python-speech
-url = ssh://aur@aur.archlinux.org/python-speech.git
-[submodule "python-sansio-multipart"]
-path = python-sansio-multipart
-url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
-[submodule "python-pyautogui"]
-path = python-pyautogui
-url = ssh://aur@aur.archlinux.org/python-pyautogui.git
-[submodule "python-proto-plus"]
-path = python-proto-plus
-url = ssh://aur@aur.archlinux.org/python-proto-plus.git
-[submodule "python-langcodes"]
-path = python-langcodes
-url = ssh://aur@aur.archlinux.org/python-langcodes.git
-[submodule "python-haversine"]
-path = python-haversine
-url = ssh://aur@aur.archlinux.org/python-haversine.git
-[submodule "python-eve-git"]
-path = python-eve-git
-url = ssh://aur@aur.archlinux.org/python-eve-git.git
-[submodule "python-auditok"]
-path = python-auditok
-url = ssh://aur@aur.archlinux.org/python-auditok.git
-[submodule "python-mapclassify"]
-path = python-mapclassify
-url = ssh://aur@aur.archlinux.org/python-mapclassify.git
-[submodule "python-asks"]
-path = python-asks
-url = ssh://aur@aur.archlinux.org/python-asks.git
-[submodule "python-overly"]
-path = python-overly
-url = ssh://aur@aur.archlinux.org/python-overly.git
-[submodule "marp-cli"]
-path = marp-cli
-url = ssh://aur@aur.archlinux.org/marp-cli.git
-[submodule "marp-cli-bin"]
-path = marp-cli-bin
-url = ssh://aur@aur.archlinux.org/marp-cli-bin.git
-[submodule "whatweb-git"]
-path = whatweb-git
-url = ssh://aur@aur.archlinux.org/whatweb-git.git
-[submodule "whatweb"]
-path = whatweb
-url = ssh://aur@aur.archlinux.org/whatweb.git
-[submodule "google-java-format"]
-path = google-java-format
-url = ssh://aur@aur.archlinux.org/google-java-format.git
-[submodule "python-oct2py"]
-path = python-oct2py
-url = ssh://aur@aur.archlinux.org/python-oct2py.git
-[submodule "python-geoplot"]
-path = python-geoplot
-url = ssh://aur@aur.archlinux.org/python-geoplot.git
-[submodule "python-mplleaflet"]
-path = python-mplleaflet
-url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
-[submodule "python-anyconfig"]
-path = python-anyconfig
-url = ssh://aur@aur.archlinux.org/python-anyconfig.git
 [submodule "github-release-bin"]
 path = github-release-bin
 url = ssh://aur@aur.archlinux.org/github-release-bin.git
@@ -79,3 +19,75 @@ url = ssh://aur@aur.archlinux.org/golang-github-dustin-go-humanize.git
 [submodule "golang-github-voxelbrain-goptions"]
 path = golang-github-voxelbrain-goptions
 url = ssh://aur@aur.archlinux.org/golang-github-voxelbrain-goptions.git
+[submodule "google-java-format"]
+path = google-java-format
+url = ssh://aur@aur.archlinux.org/google-java-format.git
+[submodule "marp-cli"]
+path = marp-cli
+url = ssh://aur@aur.archlinux.org/marp-cli.git
+[submodule "marp-cli-bin"]
+path = marp-cli-bin
+url = ssh://aur@aur.archlinux.org/marp-cli-bin.git
+[submodule "python-anyconfig"]
+path = python-anyconfig
+url = ssh://aur@aur.archlinux.org/python-anyconfig.git
+[submodule "python-asks"]
+path = python-asks
+url = ssh://aur@aur.archlinux.org/python-asks.git
+[submodule "python-auditok"]
+path = python-auditok
+url = ssh://aur@aur.archlinux.org/python-auditok.git
+[submodule "python-contextily"]
+path = python-contextily
+url = ssh://aur@aur.archlinux.org/python-contextily.git
+[submodule "python-eve-git"]
+path = python-eve-git
+url = ssh://aur@aur.archlinux.org/python-eve-git.git
+[submodule "python-geomet"]
+path = python-geomet
+url = ssh://aur@aur.archlinux.org/python-geomet.git
+[submodule "python-geoplot"]
+path = python-geoplot
+url = ssh://aur@aur.archlinux.org/python-geoplot.git
+[submodule "python-haversine"]
+path = python-haversine
+url = ssh://aur@aur.archlinux.org/python-haversine.git
+[submodule "python-langcodes"]
+path = python-langcodes
+url = ssh://aur@aur.archlinux.org/python-langcodes.git
+[submodule "python-libpysal"]
+path = python-libpysal
+url = ssh://aur@aur.archlinux.org/python-libpysal.git
+[submodule "python-mapclassify"]
+path = python-mapclassify
+url = ssh://aur@aur.archlinux.org/python-mapclassify.git
+[submodule "python-mercantile"]
+path = python-mercantile
+url = ssh://aur@aur.archlinux.org/python-mercantile.git
+[submodule "python-mplleaflet"]
+path = python-mplleaflet
+url = ssh://aur@aur.archlinux.org/python-mplleaflet.git
+[submodule "python-oct2py"]
+path = python-oct2py
+url = ssh://aur@aur.archlinux.org/python-oct2py.git
+[submodule "python-overly"]
+path = python-overly
+url = ssh://aur@aur.archlinux.org/python-overly.git
+[submodule "python-proto-plus"]
+path = python-proto-plus
+url = ssh://aur@aur.archlinux.org/python-proto-plus.git
+[submodule "python-pyautogui"]
+path = python-pyautogui
+url = ssh://aur@aur.archlinux.org/python-pyautogui.git
+[submodule "python-sansio-multipart"]
+path = python-sansio-multipart
+url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
+[submodule "python-speech"]
+path = python-speech
+url = ssh://aur@aur.archlinux.org/python-speech.git
+[submodule "whatweb-git"]
+path = whatweb-git
+url = ssh://aur@aur.archlinux.org/whatweb-git.git
+[submodule "whatweb"]
+path = whatweb
+url = ssh://aur@aur.archlinux.org/whatweb.git
