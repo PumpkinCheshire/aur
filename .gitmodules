@@ -94,3 +94,6 @@ url = ssh://aur@aur.archlinux.org/whatweb-git.git
 [submodule "whatweb"]
 path = whatweb
 url = ssh://aur@aur.archlinux.org/whatweb.git
+[submodule "python-lda"]
+	path = python-lda
+	url = ssh://aur@aur.archlinux.org/python-lda.git
