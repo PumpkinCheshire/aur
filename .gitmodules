@@ -85,9 +85,6 @@ url = ssh://aur@aur.archlinux.org/python-pyautogui.git
 [submodule "python-sansio-multipart"]
 path = python-sansio-multipart
 url = ssh://aur@aur.archlinux.org/python-sansio-multipart.git
-[submodule "python-speech"]
-path = python-speech
-url = ssh://aur@aur.archlinux.org/python-speech.git
 [submodule "whatweb-git"]
 path = whatweb-git
 url = ssh://aur@aur.archlinux.org/whatweb-git.git
@@ -95,8 +92,8 @@ url = ssh://aur@aur.archlinux.org/whatweb-git.git
 path = whatweb
 url = ssh://aur@aur.archlinux.org/whatweb.git
 [submodule "python-lda"]
-	path = python-lda
-	url = ssh://aur@aur.archlinux.org/python-lda.git
+path = python-lda
+url = ssh://aur@aur.archlinux.org/python-lda.git
 [submodule "python-viztracer"]
-	path = python-viztracer
-	url = ssh://aur@aur.archlinux.org/python-viztracer.git
+path = python-viztracer
+url = ssh://aur@aur.archlinux.org/python-viztracer.git
