@@ -97,3 +97,6 @@ url = ssh://aur@aur.archlinux.org/whatweb.git
 [submodule "python-lda"]
 	path = python-lda
 	url = ssh://aur@aur.archlinux.org/python-lda.git
+[submodule "python-viztracer"]
+	path = python-viztracer
+	url = ssh://aur@aur.archlinux.org/python-viztracer.git
