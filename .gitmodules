@@ -4,6 +4,12 @@ url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
 [submodule "dain-ncnn-vulkan-git"]
 path = dain-ncnn-vulkan-git
 url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
+[submodule "dain-ncnn-vulkan-git"]
+path = dain-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-bin.git
+[submodule "cain-ncnn-vulkan-git"]
+path = cain-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-bin.git
 [submodule "github-release-bin"]
 path = github-release-bin
 url = ssh://aur@aur.archlinux.org/github-release-bin.git
@@ -98,23 +104,23 @@ url = ssh://aur@aur.archlinux.org/python-lda.git
 path = python-viztracer
 url = ssh://aur@aur.archlinux.org/python-viztracer.git
 [submodule "python-amazon.ion"]
-	path = python-amazon.ion
-	url = ssh://aur@aur.archlinux.org/python-amazon.ion.git
+path = python-amazon.ion
+url = ssh://aur@aur.archlinux.org/python-amazon.ion.git
 [submodule "python-anyconfig-bson-backend"]
-	path = python-anyconfig-bson-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-bson-backend.git
+path = python-anyconfig-bson-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-bson-backend.git
 [submodule "python-anyconfig-ion-backend"]
-	path = python-anyconfig-ion-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-ion-backend.git
+path = python-anyconfig-ion-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-ion-backend.git
 [submodule "python-anyconfig-cbor-backend"]
-	path = python-anyconfig-cbor-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-cbor-backend.git
+path = python-anyconfig-cbor-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-cbor-backend.git
 [submodule "python-anyconfig-cbor2-backend"]
-	path = python-anyconfig-cbor2-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-cbor2-backend.git
+path = python-anyconfig-cbor2-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-cbor2-backend.git
 [submodule "python-anyconfig-configobj-backend"]
-	path = python-anyconfig-configobj-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-configobj-backend.git
+path = python-anyconfig-configobj-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-configobj-backend.git
 [submodule "python-anyconfig-msgpack-backend"]
-	path = python-anyconfig-msgpack-backend
-	url = ssh://aur@aur.archlinux.org/python-anyconfig-msgpack-backend.git
+path = python-anyconfig-msgpack-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-msgpack-backend.git
