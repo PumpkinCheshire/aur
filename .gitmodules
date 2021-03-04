@@ -124,3 +124,6 @@ url = ssh://aur@aur.archlinux.org/python-anyconfig-configobj-backend.git
 [submodule "python-anyconfig-msgpack-backend"]
 path = python-anyconfig-msgpack-backend
 url = ssh://aur@aur.archlinux.org/python-anyconfig-msgpack-backend.git
+[submodule "python-pyeit-git"]
+	path = python-pyeit-git
+	url = ssh://aur@aur.archlinux.org/python-pyeit-git.git
