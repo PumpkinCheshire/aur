@@ -125,5 +125,17 @@ url = ssh://aur@aur.archlinux.org/python-anyconfig-configobj-backend.git
 path = python-anyconfig-msgpack-backend
 url = ssh://aur@aur.archlinux.org/python-anyconfig-msgpack-backend.git
 [submodule "python-pyeit-git"]
-	path = python-pyeit-git
-	url = ssh://aur@aur.archlinux.org/python-pyeit-git.git
+path = python-pyeit-git
+url = ssh://aur@aur.archlinux.org/python-pyeit-git.git
+[submodule "python-termplotlib"]
+path = python-termplotlib
+url = ssh://aur@aur.archlinux.org/python-termplotlib.git
+[submodule "python-meshplex"]
+path = python-meshplex
+url = ssh://aur@aur.archlinux.org/python-meshplex.git
+[submodule "python-optimesh"]
+path = python-optimesh
+url = ssh://aur@aur.archlinux.org/python-optimesh.git
+[submodule "python-dmsh"]
+	path = python-dmsh
+	url = ssh://aur@aur.archlinux.org/python-dmsh.git
