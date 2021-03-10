@@ -137,5 +137,8 @@ url = ssh://aur@aur.archlinux.org/python-meshplex.git
 path = python-optimesh
 url = ssh://aur@aur.archlinux.org/python-optimesh.git
 [submodule "python-dmsh"]
-	path = python-dmsh
-	url = ssh://aur@aur.archlinux.org/python-dmsh.git
+path = python-dmsh
+url = ssh://aur@aur.archlinux.org/python-dmsh.git
+[submodule "python-pyan3"]
+path = python-pyan3
+url = ssh://aur@aur.archlinux.org/python-pyan3.git
