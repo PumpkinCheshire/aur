@@ -178,6 +178,9 @@ url = ssh://aur@aur.archlinux.org/srmd-ncnn-vulkan-bin.git
 [submodule "realsr-ncnn-vulkan-bin"]
 path = realsr-ncnn-vulkan-bin
 url = ssh://aur@aur.archlinux.org/realsr-ncnn-vulkan-bin.git
+[submodule "realsr-ncnn-vulkan"]
+path = realsr-ncnn-vulkan
+url = ssh://aur@aur.archlinux.org/realsr-ncnn-vulkan.git
 [submodule "jalview"]
 path = jalview
 url = ssh://aur@aur.archlinux.org/jalview.git
