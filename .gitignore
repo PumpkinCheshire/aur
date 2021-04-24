@@ -1,3 +1,2 @@
-*
-!.gitmodules
-!.gitignore
+.mypy_cache
+.vscode
