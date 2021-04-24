@@ -1,15 +1,33 @@
 [submodule "dain-ncnn-vulkan-bin"]
 path = dain-ncnn-vulkan-bin
 url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-bin.git
+[submodule "dain-ncnn-vulkan"]
+path = dain-ncnn-vulkan
+url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan.git
+[submodule "cain-ncnn-vulkan"]
+path = cain-ncnn-vulkan
+url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan.git
 [submodule "cain-ncnn-vulkan-bin"]
 path = cain-ncnn-vulkan-bin
 url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-bin.git
+[submodule "waifu2x-ncnn-vulkan-bin"]
+path = waifu2x-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/waifu2x-ncnn-vulkan-bin.git
 [submodule "dain-ncnn-vulkan-git"]
-path = dain-ncnn-vulkan-bin
+path = dain-ncnn-vulkan-git
 url = ssh://aur@aur.archlinux.org/dain-ncnn-vulkan-git.git
 [submodule "cain-ncnn-vulkan-git"]
-path = cain-ncnn-vulkan-bin
+path = cain-ncnn-vulkan-git
 url = ssh://aur@aur.archlinux.org/cain-ncnn-vulkan-git.git
+[submodule "rife-ncnn-vulkan"]
+path = rife-ncnn-vulkan
+url = ssh://aur@aur.archlinux.org/rife-ncnn-vulkan.git
+[submodule "rife-ncnn-vulkan-bin"]
+path = rife-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/rife-ncnn-vulkan-bin.git
+[submodule "rife-ncnn-vulkan-git"]
+path = rife-ncnn-vulkan-git
+url = ssh://aur@aur.archlinux.org/rife-ncnn-vulkan-git.git
 [submodule "github-release-bin"]
 path = github-release-bin
 url = ssh://aur@aur.archlinux.org/github-release-bin.git
@@ -124,6 +142,12 @@ url = ssh://aur@aur.archlinux.org/python-anyconfig-configobj-backend.git
 [submodule "python-anyconfig-msgpack-backend"]
 path = python-anyconfig-msgpack-backend
 url = ssh://aur@aur.archlinux.org/python-anyconfig-msgpack-backend.git
+[submodule "python-anyconfig-fortios-backend"]
+path = python-anyconfig-fortios-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-fortios-backend.git
+[submodule "python-anyconfig-json5-backend"]
+path = python-anyconfig-json5-backend
+url = ssh://aur@aur.archlinux.org/python-anyconfig-json5-backend.git
 [submodule "python-pyeit-git"]
 path = python-pyeit-git
 url = ssh://aur@aur.archlinux.org/python-pyeit-git.git
@@ -142,3 +166,18 @@ url = ssh://aur@aur.archlinux.org/python-dmsh.git
 [submodule "python-pyan3"]
 path = python-pyan3
 url = ssh://aur@aur.archlinux.org/python-pyan3.git
+[submodule "srmd-ncnn-vulkan-git"]
+path = srmd-ncnn-vulkan-git
+url = ssh://aur@aur.archlinux.org/srmd-ncnn-vulkan-git.git
+[submodule "srmd-ncnn-vulkan"]
+path = srmd-ncnn-vulkan
+url = ssh://aur@aur.archlinux.org/srmd-ncnn-vulkan.git
+[submodule "srmd-ncnn-vulkan-bin"]
+path = srmd-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/srmd-ncnn-vulkan-bin.git
+[submodule "realsr-ncnn-vulkan-bin"]
+path = realsr-ncnn-vulkan-bin
+url = ssh://aur@aur.archlinux.org/realsr-ncnn-vulkan-bin.git
+[submodule "jalview"]
+path = jalview
+url = ssh://aur@aur.archlinux.org/jalview.git
