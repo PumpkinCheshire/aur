@@ -184,3 +184,9 @@ url = ssh://aur@aur.archlinux.org/realsr-ncnn-vulkan.git
 [submodule "jalview"]
 path = jalview
 url = ssh://aur@aur.archlinux.org/jalview.git
+[submodule "python-pysam"]
+path = python-pysam
+url = ssh://aur@aur.archlinux.org/python-pysam.git
+[submodule "bwa-git"]
+	path = bwa-git
+	url = ssh://aur@aur.archlinux.org/bwa-git.git
