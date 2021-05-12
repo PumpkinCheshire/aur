@@ -190,3 +190,6 @@ url = ssh://aur@aur.archlinux.org/python-pysam.git
 [submodule "bwa-git"]
 path = bwa-git
 url = ssh://aur@aur.archlinux.org/bwa-git.git
+[submodule "ncnn"]
+	path = ncnn
+	url = ssh://aur@aur.archlinux.org/ncnn.git
