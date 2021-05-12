@@ -188,5 +188,5 @@ url = ssh://aur@aur.archlinux.org/jalview.git
 path = python-pysam
 url = ssh://aur@aur.archlinux.org/python-pysam.git
 [submodule "bwa-git"]
-	path = bwa-git
-	url = ssh://aur@aur.archlinux.org/bwa-git.git
+path = bwa-git
+url = ssh://aur@aur.archlinux.org/bwa-git.git
