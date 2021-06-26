@@ -191,5 +191,11 @@ url = ssh://aur@aur.archlinux.org/python-pysam.git
 path = bwa-git
 url = ssh://aur@aur.archlinux.org/bwa-git.git
 [submodule "ncnn"]
-	path = ncnn
-	url = ssh://aur@aur.archlinux.org/ncnn.git
+path = ncnn
+url = ssh://aur@aur.archlinux.org/ncnn.git
+[submodule "python-taichi"]
+path = python-taichi
+url = ssh://aur@aur.archlinux.org/python-taichi.git
+[submodule "pycdc-git"]
+path = pycdc-git
+url = ssh://aur@aur.archlinux.org/pycdc-git.git

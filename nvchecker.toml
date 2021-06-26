@@ -1,0 +1,515 @@
+[__config__]
+newver = "/home/pumpkincheshire/Develope/aur/.nvchecker/new.json"
+oldver = "/home/pumpkincheshire/Develope/aur/.nvchecker/old.json"
+prefix = "v"
+
+
+# rife-ncnn-vulkan #
+
+[github-rife-ncnn-vulkan]
+github = "nihui/rife-ncnn-vulkan"
+source = "github"
+use_latest_release = true
+
+[aur-rife-ncnn-vulkan]
+aur = "rife-ncnn-vulkan"
+source = "aur"
+strip_release = true
+
+[aur-rife-ncnn-vulkan-bin]
+aur = "rife-ncnn-vulkan-bin"
+source = "aur"
+strip_release = true
+
+# srmd-ncnn-vulkan #
+
+[github-srmd-ncnn-vulkan]
+github = "nihui/srmd-ncnn-vulkan"
+source = "github"
+use_latest_release = true
+
+[aur-srmd-ncnn-vulkan]
+aur = "srmd-ncnn-vulkan"
+source = "aur"
+strip_release = true
+
+[aur-srmd-ncnn-vulkan-bin]
+aur = "srmd-ncnn-vulkan-bin"
+source = "aur"
+strip_release = true
+
+# waifu2x-ncnn-vulkan-bin #
+
+[github-waifu2x-ncnn-vulkan]
+github = "nihui/waifu2x-ncnn-vulkan"
+source = "github"
+use_latest_release = true
+
+[aur-waifu2x-ncnn-vulkan-bin]
+aur = "waifu2x-ncnn-vulkan-bin"
+source = "aur"
+strip_release = true
+
+# dain-ncnn-vulkan #
+
+[github-dain-ncnn-vulkan]
+github = "nihui/dain-ncnn-vulkan"
+source = "github"
+use_latest_release = true
+
+[aur-dain-ncnn-vulkan]
+aur = "dain-ncnn-vulkan"
+source = "aur"
+strip_release = true
+
+[aur-dain-ncnn-vulkan-bin]
+aur = "dain-ncnn-vulkan-bin"
+source = "aur"
+strip_release = true
+
+# cain-ncnn-vulkan #
+
+[github-cain-ncnn-vulkan]
+github = "nihui/dain-ncnn-vulkan"
+source = "github"
+use_latest_release = true
+
+[aur-cain-ncnn-vulkan]
+aur = "cain-ncnn-vulkan"
+source = "aur"
+strip_release = true
+
+[aur-cain-ncnn-vulkan-bin]
+aur = "cain-ncnn-vulkan-bin"
+source = "aur"
+strip_release = true
+
+# github-release #
+
+[github-github-release]
+github = "github-release/github-release"
+source = "github"
+use_latest_release = true
+
+[aur-github-release]
+aur = "github-release"
+source = "aur"
+strip_release = true
+
+[aur-github-release-bin]
+aur = "github-release-bin"
+source = "aur"
+strip_release = true
+
+[github-go-humanize]
+github = "dustin/go-humanize"
+source = "github"
+# token = "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"
+# use_latest_tag = true
+use_max_tag = true
+
+[aur-go-humanize]
+aur = "golang-github-dustin-go-humanize"
+source = "aur"
+strip_release = true
+
+[github-goptions]
+github = "voxelbrain/goptions"
+source = "github"
+use_max_tag = true
+
+[aur-goptions]
+aur = "golang-github-voxelbrain-goptions"
+source = "aur"
+strip_release = true
+
+# google-java-format #
+[github-google-java-format]
+github = "google/google-java-format"
+source = "github"
+use_max_tag = true
+
+[aur-google-java-format]
+aur = "google-java-format"
+source = "aur"
+strip_release = true
+
+# jalview #
+
+# marp-cli #
+[github-marp-cli]
+github = "marp-team/marp-cli"
+source = "github"
+use_max_tag = true
+
+[aur-marp-cli]
+aur = "marp-cli"
+source = "aur"
+strip_release = true
+
+[aur-marp-cli-bin]
+aur = "marp-cli-bin"
+source = "aur"
+strip_release = true
+
+# ncnn #
+[github-ncnn]
+github = "Tencent/ncnn"
+source = "github"
+use_max_tag = true
+
+[aur-ncnn]
+aur = "ncnn"
+source = "aur"
+strip_release = true
+
+# autoconfig #
+[python-amazon-ion]
+pypi = "amazon.ion"
+source = "pypi"
+
+[aur-python-amazon-ion]
+aur = "python-amazon.ion"
+source = "aur"
+strip_release = "true"
+
+[python-anyconfig]
+pypi="anyconfig"
+source="pypi"
+
+[aur-python-anyconfig]
+aur="python-anyconfig"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-bson-backend]
+pypi="anyconfig-bson-backend"
+source="pypi"
+
+[aur-python-anyconfig-bson-backend]
+aur="python-anyconfig-bson-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-cbor-backend]
+pypi="anyconfig-cbor-backend"
+source="pypi"
+
+[aur-python-anyconfig-cbor-backend]
+aur="python-anyconfig-cbor-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-cbor2-backend]
+pypi="anyconfig-cbor2-backend"
+source="pypi"
+
+[aur-python-anyconfig-cbor2-backend]
+aur="python-anyconfig-cbor2-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-configobj-backend]
+pypi="anyconfig-configobj-backend"
+source="pypi"
+
+[aur-python-anyconfig-configobj-backend]
+aur="python-anyconfig-configobj-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-fortios-backend]
+pypi="anyconfig-fortios-backend"
+source="pypi"
+
+[aur-python-anyconfig-fortios-backend]
+aur="python-anyconfig-fortios-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-ion-backend]
+pypi="anyconfig-ion-backend"
+source="pypi"
+
+[aur-python-anyconfig-ion-backend]
+aur="python-anyconfig-ion-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-json5-backend]
+pypi="anyconfig-json5-backend"
+source="pypi"
+
+[aur-python-anyconfig-json5-backend]
+aur="python-anyconfig-json5-backend"
+source="aur"
+strip_release="true"
+
+[python-anyconfig-msgpack-backend]
+pypi="anyconfig-msgpack-backend"
+source="pypi"
+
+[aur-python-anyconfig-msgpack-backend]
+aur="python-anyconfig-msgpack-backend"
+source="aur"
+strip_release="true"
+
+# asks #
+[python-asks]
+pypi="asks"
+source="pypi"
+
+[aur-python-asks]
+aur="python-asks"
+source="aur"
+strip_release="true"
+
+# auditok #
+[python-auditok]
+pypi="auditok"
+source="pypi"
+
+[aur-python-auditok]
+aur="python-auditok"
+source="aur"
+strip_release="true"
+
+# contextily #
+[python-contextily]
+pypi="contextily"
+source="pypi"
+
+[aur-python-contextily]
+aur="python-contextily"
+source="aur"
+strip_release="true"
+
+# dmsh #
+[python-dmsh]
+pypi="dmsh"
+source = "pypi"
+
+[aur-python-dmsh]
+aur="python-dmsh"
+source = "aur"
+strip_release="true"
+
+# geomet #
+[python-geomet]
+pypi="geomet"
+source="pypi"
+
+[aur-python-geomet]
+aur="python-geomet"
+source="aur"
+strip_release="true"
+
+# geoplot #
+[python-geoplot]
+pypi="geoplot"
+source="pypi"
+
+[aur-python-geoplot]
+aur="python-geoplot"
+source="aur"
+strip_release="true"
+
+# google-cloud-speech #
+[python-google-cloud-speech]
+pypi="google-cloud-speech"
+source="pypi"
+
+[aur-python-google-cloud-speech]
+aur="python-google-cloud-speech"
+source="aur"
+strip_release="true"
+
+# haversine #
+[python-haversine]
+pypi="haversine"
+source="pypi"
+
+[aur-python-haversine]
+aur="python-haversine"
+source="aur"
+strip_release="true"
+
+# langcodes #
+[python-langcodes]
+pypi="langcodes"
+source="pypi"
+
+[aur-python-langcodes]
+aur="python-langcodes"
+source="aur"
+strip_release="true"
+
+# lda #
+[python-lda]
+pypi="lda"
+source="pypi"
+
+[aur-python-lda]
+aur="python-lda"
+source="aur"
+strip_release="true"
+
+# libpysal #
+[python-libpysal]
+pypi="libpysal"
+source="pypi"
+
+[aur-python-libpysal]
+aur="python-libpysal"
+source="aur"
+strip_release="true"
+
+# mapclassify #
+[python-mapclassify]
+pypi="mapclassify"
+source="pypi"
+
+[aur-python-mapclassify]
+aur="python-mapclassify"
+source="aur"
+strip_release="true"
+
+# mercantile #
+[python-mercantile]
+pypi="mercantile"
+source="pypi"
+
+[aur-python-mercantile]
+aur="python-mercantile"
+source="aur"
+strip_release="true"
+
+# meshplex #
+[python-meshplex]
+pypi="meshplex"
+source="pypi"
+
+[aur-python-meshplex]
+aur="python-meshplex"
+source="aur"
+strip_release="true"
+
+# mplleaflet #
+[python-mplleaflet]
+pypi="mplleaflet"
+source="pypi"
+
+[aur-python-mplleaflet]
+aur="python-mplleaflet"
+source="aur"
+strip_release="true"
+
+# oct2py #
+[python-oct2py]
+pypi="oct2py"
+source="pypi"
+
+[aur-python-oct2py]
+aur="python-oct2py"
+source="aur"
+strip_release="true"
+
+# optimesh #
+[python-optimesh]
+pypi="optimesh"
+source="pypi"
+
+[aur-python-optimesh]
+aur="python-optimesh"
+source="aur"
+strip_release="true"
+
+# overly #
+[python-overly]
+pypi="overly"
+source="pypi"
+
+[aur-python-overly]
+aur="python-overly"
+source="aur"
+strip_release="true"
+
+# proto-plus #
+[python-proto-plus]
+pypi="proto-plus"
+source="pypi"
+
+[aur-python-proto-plus]
+aur="python-proto-plus"
+source="aur"
+strip_release="true"
+
+# pyan3 #
+[python-pyan3]
+pypi="pyan3"
+source="pypi"
+
+[aur-python-pyan3]
+aur="python-pyan3"
+source="aur"
+strip_release="true"
+
+# pyautogui #
+[python-pyautogui]
+pypi="pyautogui"
+source="pypi"
+
+[aur-python-pyautogui]
+aur="python-pyautogui"
+source="aur"
+strip_release="true"
+
+# pysam #
+[python-pysam]
+pypi="pysam"
+source="pypi"
+
+[aur-python-pysam]
+aur="python-pysam"
+source="aur"
+strip_release="true"
+
+# sansio-multipart #
+[python-sansio-multipart]
+pypi="sansio-multipart"
+source="pypi"
+
+[aur-python-sansio-multipart]
+aur="python-sansio-multipart"
+source="aur"
+strip_release="true"
+
+# taichi #
+[python-taichi]
+pypi="taichi"
+source = "pypi"
+
+[aur-python-taichi]
+aur="python-taichi"
+source = "aur"
+strip_release="true"
+
+# termplotlib #
+[python-termplotlib]
+pypi="termplotlib"
+source = "pypi"
+
+[aur-python-termplotlib]
+aur="python-termplotlib"
+source = "aur"
+strip_release="true"
+
+# viztracer #
+[python-viztracer]
+pypi="viztracer"
+source="pypi"
+
+[aur-python-viztracer]
+aur="python-viztracer"
+source="aur"
+strip_release="true"
