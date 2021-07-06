@@ -199,3 +199,24 @@ url = ssh://aur@aur.archlinux.org/python-taichi.git
 [submodule "pycdc-git"]
 path = pycdc-git
 url = ssh://aur@aur.archlinux.org/pycdc-git.git
+[submodule "spades"]
+path = spades
+url = ssh://aur@aur.archlinux.org/spades.git
+[submodule "unicycler"]
+path = unicycler
+url = ssh://aur@aur.archlinux.org/unicycler.git
+[submodule "python-pydistmesh"]
+path = python-pydistmesh
+url = ssh://aur@aur.archlinux.org/python-pydistmesh.git
+[submodule "snippy"]
+path = snippy
+url = ssh://aur@aur.archlinux.org/snippy.git
+[submodule "pilon"]
+path = pilon
+url = ssh://aur@aur.archlinux.org/pilon.git
+[submodule "skesa"]
+path = skesa
+url = ssh://aur@aur.archlinux.org/skesa.git
+[submodule "python-astpretty"]
+path = python-astpretty
+url = ssh://aur@aur.archlinux.org/python-astpretty.git

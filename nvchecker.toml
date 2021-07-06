@@ -264,6 +264,16 @@ aur="python-asks"
 source="aur"
 strip_release="true"
 
+# astpretty #
+[python-astpretty]
+pypi="astpretty"
+source="pypi"
+
+[aur-python-astpretty]
+aur="python-astpretty"
+source="aur"
+strip_release="true"
+
 # auditok #
 [python-auditok]
 pypi="auditok"
@@ -454,6 +464,16 @@ aur="python-pyan3"
 source="aur"
 strip_release="true"
 
+# pydistmesh #
+[python-pydistmesh]
+pypi="pydistmesh"
+source="pypi"
+
+[aur-python-pydistmesh]
+aur="python-pydistmesh"
+source="aur"
+strip_release="true"
+
 # pyautogui #
 [python-pyautogui]
 pypi="pyautogui"
@@ -511,5 +531,50 @@ source="pypi"
 
 [aur-python-viztracer]
 aur="python-viztracer"
+source="aur"
+strip_release="true"
+
+# snippy #
+[github-snippy]
+github = "tseemann/snippy"
+source = "github"
+use_max_tag = true
+
+[aur-snippy]
+aur="snippy"
+source="aur"
+strip_release="true"
+
+
+# spades #
+[github-spades]
+github = "ablab/spades"
+source = "github"
+use_max_tag = true
+
+[aur-spades]
+aur="spades"
+source="aur"
+strip_release="true"
+
+# unicycler #
+[github-unicycler]
+github = "rrwick/Unicycler"
+source = "github"
+use_max_tag = true
+
+[aur-unicycler]
+aur="unicycler"
+source="aur"
+strip_release="true"
+
+# unicycler #
+[github-skesa]
+github = "ncbi/SKESA"
+source = "github"
+use_max_tag = true
+
+[aur-skesa]
+aur="skesa"
 source="aur"
 strip_release="true"
