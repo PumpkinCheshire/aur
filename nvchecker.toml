@@ -1,6 +1,6 @@
 [__config__]
-newver = "/home/pumpkincheshire/Develope/aur/.nvchecker/new.json"
-oldver = "/home/pumpkincheshire/Develope/aur/.nvchecker/old.json"
+newver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/new.json"
+oldver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/old.json"
 prefix = "v"
 
 
@@ -124,6 +124,7 @@ source = "aur"
 strip_release = true
 
 # google-java-format #
+
 [github-google-java-format]
 github = "google/google-java-format"
 source = "github"
@@ -137,6 +138,7 @@ strip_release = true
 # jalview #
 
 # marp-cli #
+
 [github-marp-cli]
 github = "marp-team/marp-cli"
 source = "github"
@@ -153,6 +155,7 @@ source = "aur"
 strip_release = true
 
 # ncnn #
+
 [github-ncnn]
 github = "Tencent/ncnn"
 source = "github"
@@ -164,6 +167,7 @@ source = "aur"
 strip_release = true
 
 # autoconfig #
+
 [python-amazon-ion]
 pypi = "amazon.ion"
 source = "pypi"
@@ -255,6 +259,7 @@ source="aur"
 strip_release="true"
 
 # asks #
+
 [python-asks]
 pypi="asks"
 source="pypi"
@@ -265,6 +270,7 @@ source="aur"
 strip_release="true"
 
 # astpretty #
+
 [python-astpretty]
 pypi="astpretty"
 source="pypi"
@@ -275,6 +281,7 @@ source="aur"
 strip_release="true"
 
 # auditok #
+
 [python-auditok]
 pypi="auditok"
 source="pypi"
@@ -285,6 +292,7 @@ source="aur"
 strip_release="true"
 
 # contextily #
+
 [python-contextily]
 pypi="contextily"
 source="pypi"
@@ -554,6 +562,42 @@ use_max_tag = true
 
 [aur-spades]
 aur="spades"
+source="aur"
+strip_release="true"
+
+# megahit #
+
+[github-megahit]
+github = "voutcn/megahit"
+source = "github"
+use_max_tag = true
+
+[aur-megahit]
+aur="megahit"
+source="aur"
+strip_release="true"
+
+# samclip #
+
+[github-samclip]
+github = "tseemann/samclip"
+source = "github"
+use_max_tag = true
+
+[aur-samclip]
+aur="samclip"
+source="aur"
+strip_release="true"
+
+# lighter #
+
+[github-lighter]
+github = "mourisl/Lighter"
+source = "github"
+use_max_tag = true
+
+[aur-lighter]
+aur="lighter"
 source="aur"
 strip_release="true"
 

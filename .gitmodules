@@ -220,3 +220,15 @@ url = ssh://aur@aur.archlinux.org/skesa.git
 [submodule "python-astpretty"]
 path = python-astpretty
 url = ssh://aur@aur.archlinux.org/python-astpretty.git
+[submodule "megahit"]
+path = megahit
+url = ssh://aur@aur.archlinux.org/megahit.git
+[submodule "samclip"]
+path = samclip
+url = ssh://aur@aur.archlinux.org/samclip.git
+[submodule "lighter"]
+path = lighter
+url = ssh://aur@aur.archlinux.org/lighter.git
+[submodule "perl-graph"]
+	path = perl-graph
+	url = ssh://aur@aur.archlinux.org/perl-graph.git
