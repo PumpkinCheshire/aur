@@ -166,6 +166,16 @@ aur = "ncnn"
 source = "aur"
 strip_release = true
 
+# perl-graph
+[perl-graph]
+cpan = "Graph"
+source = "cpan"
+
+[aur-perl-graph]
+aur = "perl-graph"
+source = "aur"
+strip_release = "true"
+
 # autoconfig #
 
 [python-amazon-ion]
@@ -329,6 +339,16 @@ source="pypi"
 
 [aur-python-geoplot]
 aur="python-geoplot"
+source="aur"
+strip_release="true"
+
+# google-cloud-core #
+[python-google-cloud-core]
+pypi="google-cloud-core"
+source="pypi"
+
+[aur-python-google-cloud-core]
+aur="python-google-cloud-core"
 source="aur"
 strip_release="true"
 
