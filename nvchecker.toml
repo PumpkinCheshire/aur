@@ -522,6 +522,27 @@ aur="python-pysam"
 source="aur"
 strip_release="true"
 
+# python-pytweening #
+[python-pytweening]
+pypi="pytweening"
+source="pypi"
+
+[aur-python-pytweening]
+aur="python-pytweening"
+source="aur"
+strip_release="true"
+
+# python-xyzservices  #
+[python-xyzservices ]
+pypi="xyzservices "
+source="pypi"
+
+[aur-python-xyzservices ]
+aur="python-xyzservices "
+source="aur"
+strip_release="true"
+
+
 # sansio-multipart #
 [python-sansio-multipart]
 pypi="sansio-multipart"

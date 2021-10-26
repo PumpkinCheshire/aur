@@ -233,14 +233,20 @@ url = ssh://aur@aur.archlinux.org/lighter.git
 path = perl-graph
 url = ssh://aur@aur.archlinux.org/perl-graph.git
 [submodule "leveldb-dumper"]
-	path = leveldb-dumper
-	url = ssh://aur@aur.archlinux.org/leveldb-dumper.git
+path = leveldb-dumper
+url = ssh://aur@aur.archlinux.org/leveldb-dumper.git
 [submodule "vvc-vtm"]
-	path = vvc-vtm
-	url = ssh://aur@aur.archlinux.org/vvc-vtm.git
+path = vvc-vtm
+url = ssh://aur@aur.archlinux.org/vvc-vtm.git
 [submodule "nncase"]
 path = nncase
 url = ssh://aur@aur.archlinux.org/nncase.git
 [submodule "python-google-cloud-core"]
 path = python-google-cloud-core
 url = ssh://aur@aur.archlinux.org/python-google-cloud-core.git
+[submodule "python-xyzservices"]
+	path = python-xyzservices
+	url = ssh://aur@aur.archlinux.org/python-xyzservices.git
+[submodule "python-pytweening"]
+path = python-pytweening
+url = ssh://aur@aur.archlinux.org/python-pytweening.git
