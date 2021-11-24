@@ -534,11 +534,11 @@ strip_release="true"
 
 # python-xyzservices  #
 [python-xyzservices ]
-pypi="xyzservices "
+pypi="xyzservices"
 source="pypi"
 
 [aur-python-xyzservices ]
-aur="python-xyzservices "
+aur="python-xyzservices"
 source="aur"
 strip_release="true"
 

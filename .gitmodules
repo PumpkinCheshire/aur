@@ -245,8 +245,11 @@ url = ssh://aur@aur.archlinux.org/nncase.git
 path = python-google-cloud-core
 url = ssh://aur@aur.archlinux.org/python-google-cloud-core.git
 [submodule "python-xyzservices"]
-	path = python-xyzservices
-	url = ssh://aur@aur.archlinux.org/python-xyzservices.git
+path = python-xyzservices
+url = ssh://aur@aur.archlinux.org/python-xyzservices.git
 [submodule "python-pytweening"]
 path = python-pytweening
 url = ssh://aur@aur.archlinux.org/python-pytweening.git
+[submodule "cockpit-navigator"]
+path = cockpit-navigator
+url = ssh://aur@aur.archlinux.org/cockpit-navigator.git
