@@ -1,0 +1,34 @@
+#!/bin/bash
+
+# Maintainer: PumpkinCheshire <me at pumpkincheshire dot com>
+
+pkgname=meta-grabber # All lowercase
+pkgver=0.2.0
+pkgrel=1
+pkgdesc="A tool to grab metadata for tv shows and rename files on your hard disk."
+arch=(any)
+url="https://andreaswilli.github.io/meta-grabber/"
+license=(MIT)
+depends=('nodejs')
+makedepends=('npm' 'electron')
+optdepends=()
+source=(https://github.com/andreaswilli/$pkgname/archive/refs/tags/v$pkgver.tar.gz)
+b2sums=('dcf908eabc205c32d5dbb3e6f1aa71a6cbc5dd1b2a5adb7a5751d41af59ece47de4ec2d3a468a9b471ffc667aefeb4f9d24a79660b058bab87db227107da9b98')
+
+package() {
+  cd $srcdir/$pkgname-$pkgver
+  export npm_config_target=$(tail /usr/lib/electron/version)
+  export npm_config_arch=x64
+  export npm_config_target_arch=x64
+  export npm_config_disturl=https://atom.io/download/electron
+  export npm_config_runtime=electron
+  export npm_config_build_from_source=true
+  HOME="$srcdir/.electron-gyp" npm install
+  npm i
+  webpack --mode production
+  electronDist=$(dirname $(realpath $(which electron)))
+  electronVer=$(electron --version | tail -c +2)
+  ./node_modules/.bin/electron-builder --linux --x64 --dir dist -c.electronDist=$electronDist -c.electronVersion=$electronVer
+}
+
+# vim:set ts=2 sw=2 et:

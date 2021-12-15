@@ -3,9 +3,18 @@ newver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/new.json"
 oldver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/old.json"
 prefix = "v"
 
+# cockpit-navigator #
+[github-cockpit-navigator]
+github = "45Drives/cockpit-navigator"
+source = "github"
+use_latest_release = true
+
+[aur-cockpit-navigator]
+aur = "cockpit-navigator"
+source = "aur"
+strip_release = "true"
 
 # rife-ncnn-vulkan #
-
 [github-rife-ncnn-vulkan]
 github = "nihui/rife-ncnn-vulkan"
 source = "github"
@@ -22,7 +31,6 @@ source = "aur"
 strip_release = true
 
 # srmd-ncnn-vulkan #
-
 [github-srmd-ncnn-vulkan]
 github = "nihui/srmd-ncnn-vulkan"
 source = "github"
@@ -188,400 +196,396 @@ source = "aur"
 strip_release = "true"
 
 [python-anyconfig]
-pypi="anyconfig"
-source="pypi"
+pypi = "anyconfig"
+source = "pypi"
 
 [aur-python-anyconfig]
-aur="python-anyconfig"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-bson-backend]
-pypi="anyconfig-bson-backend"
-source="pypi"
+pypi = "anyconfig-bson-backend"
+source = "pypi"
 
 [aur-python-anyconfig-bson-backend]
-aur="python-anyconfig-bson-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-bson-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-cbor-backend]
-pypi="anyconfig-cbor-backend"
-source="pypi"
+pypi = "anyconfig-cbor-backend"
+source = "pypi"
 
 [aur-python-anyconfig-cbor-backend]
-aur="python-anyconfig-cbor-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-cbor-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-cbor2-backend]
-pypi="anyconfig-cbor2-backend"
-source="pypi"
+pypi = "anyconfig-cbor2-backend"
+source = "pypi"
 
 [aur-python-anyconfig-cbor2-backend]
-aur="python-anyconfig-cbor2-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-cbor2-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-configobj-backend]
-pypi="anyconfig-configobj-backend"
-source="pypi"
+pypi = "anyconfig-configobj-backend"
+source = "pypi"
 
 [aur-python-anyconfig-configobj-backend]
-aur="python-anyconfig-configobj-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-configobj-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-fortios-backend]
-pypi="anyconfig-fortios-backend"
-source="pypi"
+pypi = "anyconfig-fortios-backend"
+source = "pypi"
 
 [aur-python-anyconfig-fortios-backend]
-aur="python-anyconfig-fortios-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-fortios-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-ion-backend]
-pypi="anyconfig-ion-backend"
-source="pypi"
+pypi = "anyconfig-ion-backend"
+source = "pypi"
 
 [aur-python-anyconfig-ion-backend]
-aur="python-anyconfig-ion-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-ion-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-json5-backend]
-pypi="anyconfig-json5-backend"
-source="pypi"
+pypi = "anyconfig-json5-backend"
+source = "pypi"
 
 [aur-python-anyconfig-json5-backend]
-aur="python-anyconfig-json5-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-json5-backend"
+source = "aur"
+strip_release = "true"
 
 [python-anyconfig-msgpack-backend]
-pypi="anyconfig-msgpack-backend"
-source="pypi"
+pypi = "anyconfig-msgpack-backend"
+source = "pypi"
 
 [aur-python-anyconfig-msgpack-backend]
-aur="python-anyconfig-msgpack-backend"
-source="aur"
-strip_release="true"
+aur = "python-anyconfig-msgpack-backend"
+source = "aur"
+strip_release = "true"
 
 # asks #
 
 [python-asks]
-pypi="asks"
-source="pypi"
+pypi = "asks"
+source = "pypi"
 
 [aur-python-asks]
-aur="python-asks"
-source="aur"
-strip_release="true"
+aur = "python-asks"
+source = "aur"
+strip_release = "true"
 
 # astpretty #
-
 [python-astpretty]
-pypi="astpretty"
-source="pypi"
+pypi = "astpretty"
+source = "pypi"
 
 [aur-python-astpretty]
-aur="python-astpretty"
-source="aur"
-strip_release="true"
+aur = "python-astpretty"
+source = "aur"
+strip_release = "true"
 
 # auditok #
-
 [python-auditok]
-pypi="auditok"
-source="pypi"
+pypi = "auditok"
+source = "pypi"
 
 [aur-python-auditok]
-aur="python-auditok"
-source="aur"
-strip_release="true"
+aur = "python-auditok"
+source = "aur"
+strip_release = "true"
 
 # contextily #
-
 [python-contextily]
-pypi="contextily"
-source="pypi"
+pypi = "contextily"
+source = "pypi"
 
 [aur-python-contextily]
-aur="python-contextily"
-source="aur"
-strip_release="true"
+aur = "python-contextily"
+source = "aur"
+strip_release = "true"
 
 # dmsh #
 [python-dmsh]
-pypi="dmsh"
+pypi = "dmsh"
 source = "pypi"
 
 [aur-python-dmsh]
-aur="python-dmsh"
+aur = "python-dmsh"
 source = "aur"
-strip_release="true"
+strip_release = "true"
 
 # geomet #
 [python-geomet]
-pypi="geomet"
-source="pypi"
+pypi = "geomet"
+source = "pypi"
 
 [aur-python-geomet]
-aur="python-geomet"
-source="aur"
-strip_release="true"
+aur = "python-geomet"
+source = "aur"
+strip_release = "true"
 
 # geoplot #
 [python-geoplot]
-pypi="geoplot"
-source="pypi"
+pypi = "geoplot"
+source = "pypi"
 
 [aur-python-geoplot]
-aur="python-geoplot"
-source="aur"
-strip_release="true"
+aur = "python-geoplot"
+source = "aur"
+strip_release = "true"
 
 # google-cloud-core #
 [python-google-cloud-core]
-pypi="google-cloud-core"
-source="pypi"
+pypi = "google-cloud-core"
+source = "pypi"
 
 [aur-python-google-cloud-core]
-aur="python-google-cloud-core"
-source="aur"
-strip_release="true"
+aur = "python-google-cloud-core"
+source = "aur"
+strip_release = "true"
 
 # google-cloud-speech #
 [python-google-cloud-speech]
-pypi="google-cloud-speech"
-source="pypi"
+pypi = "google-cloud-speech"
+source = "pypi"
 
 [aur-python-google-cloud-speech]
-aur="python-google-cloud-speech"
-source="aur"
-strip_release="true"
+aur = "python-google-cloud-speech"
+source = "aur"
+strip_release = "true"
 
 # haversine #
 [python-haversine]
-pypi="haversine"
-source="pypi"
+pypi = "haversine"
+source = "pypi"
 
 [aur-python-haversine]
-aur="python-haversine"
-source="aur"
-strip_release="true"
+aur = "python-haversine"
+source = "aur"
+strip_release = "true"
 
 # langcodes #
 [python-langcodes]
-pypi="langcodes"
-source="pypi"
+pypi = "langcodes"
+source = "pypi"
 
 [aur-python-langcodes]
-aur="python-langcodes"
-source="aur"
-strip_release="true"
+aur = "python-langcodes"
+source = "aur"
+strip_release = "true"
 
 # lda #
 [python-lda]
-pypi="lda"
-source="pypi"
+pypi = "lda"
+source = "pypi"
 
 [aur-python-lda]
-aur="python-lda"
-source="aur"
-strip_release="true"
+aur = "python-lda"
+source = "aur"
+strip_release = "true"
 
 # libpysal #
 [python-libpysal]
-pypi="libpysal"
-source="pypi"
+pypi = "libpysal"
+source = "pypi"
 
 [aur-python-libpysal]
-aur="python-libpysal"
-source="aur"
-strip_release="true"
+aur = "python-libpysal"
+source = "aur"
+strip_release = "true"
 
 # mapclassify #
 [python-mapclassify]
-pypi="mapclassify"
-source="pypi"
+pypi = "mapclassify"
+source = "pypi"
 
 [aur-python-mapclassify]
-aur="python-mapclassify"
-source="aur"
-strip_release="true"
+aur = "python-mapclassify"
+source = "aur"
+strip_release = "true"
 
 # mercantile #
 [python-mercantile]
-pypi="mercantile"
-source="pypi"
+pypi = "mercantile"
+source = "pypi"
 
 [aur-python-mercantile]
-aur="python-mercantile"
-source="aur"
-strip_release="true"
+aur = "python-mercantile"
+source = "aur"
+strip_release = "true"
 
 # meshplex #
 [python-meshplex]
-pypi="meshplex"
-source="pypi"
+pypi = "meshplex"
+source = "pypi"
 
 [aur-python-meshplex]
-aur="python-meshplex"
-source="aur"
-strip_release="true"
+aur = "python-meshplex"
+source = "aur"
+strip_release = "true"
 
 # mplleaflet #
 [python-mplleaflet]
-pypi="mplleaflet"
-source="pypi"
+pypi = "mplleaflet"
+source = "pypi"
 
 [aur-python-mplleaflet]
-aur="python-mplleaflet"
-source="aur"
-strip_release="true"
+aur = "python-mplleaflet"
+source = "aur"
+strip_release = "true"
 
 # oct2py #
 [python-oct2py]
-pypi="oct2py"
-source="pypi"
+pypi = "oct2py"
+source = "pypi"
 
 [aur-python-oct2py]
-aur="python-oct2py"
-source="aur"
-strip_release="true"
+aur = "python-oct2py"
+source = "aur"
+strip_release = "true"
 
 # optimesh #
 [python-optimesh]
-pypi="optimesh"
-source="pypi"
+pypi = "optimesh"
+source = "pypi"
 
 [aur-python-optimesh]
-aur="python-optimesh"
-source="aur"
-strip_release="true"
+aur = "python-optimesh"
+source = "aur"
+strip_release = "true"
 
 # overly #
 [python-overly]
-pypi="overly"
-source="pypi"
+pypi = "overly"
+source = "pypi"
 
 [aur-python-overly]
-aur="python-overly"
-source="aur"
-strip_release="true"
+aur = "python-overly"
+source = "aur"
+strip_release = "true"
 
 # proto-plus #
 [python-proto-plus]
-pypi="proto-plus"
-source="pypi"
+pypi = "proto-plus"
+source = "pypi"
 
 [aur-python-proto-plus]
-aur="python-proto-plus"
-source="aur"
-strip_release="true"
+aur = "python-proto-plus"
+source = "aur"
+strip_release = "true"
 
 # pyan3 #
 [python-pyan3]
-pypi="pyan3"
-source="pypi"
+pypi = "pyan3"
+source = "pypi"
 
 [aur-python-pyan3]
-aur="python-pyan3"
-source="aur"
-strip_release="true"
+aur = "python-pyan3"
+source = "aur"
+strip_release = "true"
 
 # pydistmesh #
 [python-pydistmesh]
-pypi="pydistmesh"
-source="pypi"
+pypi = "pydistmesh"
+source = "pypi"
 
 [aur-python-pydistmesh]
-aur="python-pydistmesh"
-source="aur"
-strip_release="true"
+aur = "python-pydistmesh"
+source = "aur"
+strip_release = "true"
 
 # pyautogui #
 [python-pyautogui]
-pypi="pyautogui"
-source="pypi"
+pypi = "pyautogui"
+source = "pypi"
 
 [aur-python-pyautogui]
-aur="python-pyautogui"
-source="aur"
-strip_release="true"
+aur = "python-pyautogui"
+source = "aur"
+strip_release = "true"
 
 # pysam #
 [python-pysam]
-pypi="pysam"
-source="pypi"
+pypi = "pysam"
+source = "pypi"
 
 [aur-python-pysam]
-aur="python-pysam"
-source="aur"
-strip_release="true"
+aur = "python-pysam"
+source = "aur"
+strip_release = "true"
 
 # python-pytweening #
 [python-pytweening]
-pypi="pytweening"
-source="pypi"
+pypi = "pytweening"
+source = "pypi"
 
 [aur-python-pytweening]
-aur="python-pytweening"
-source="aur"
-strip_release="true"
+aur = "python-pytweening"
+source = "aur"
+strip_release = "true"
 
 # python-xyzservices  #
-[python-xyzservices ]
-pypi="xyzservices"
-source="pypi"
+[python-xyzservices]
+pypi = "xyzservices"
+source = "pypi"
 
-[aur-python-xyzservices ]
-aur="python-xyzservices"
-source="aur"
-strip_release="true"
-
+[aur-python-xyzservices]
+aur = "python-xyzservices"
+source = "aur"
+strip_release = "true"
 
 # sansio-multipart #
 [python-sansio-multipart]
-pypi="sansio-multipart"
-source="pypi"
+pypi = "sansio-multipart"
+source = "pypi"
 
 [aur-python-sansio-multipart]
-aur="python-sansio-multipart"
-source="aur"
-strip_release="true"
+aur = "python-sansio-multipart"
+source = "aur"
+strip_release = "true"
 
 # taichi #
 [python-taichi]
-pypi="taichi"
+pypi = "taichi"
 source = "pypi"
 
 [aur-python-taichi]
-aur="python-taichi"
+aur = "python-taichi"
 source = "aur"
-strip_release="true"
+strip_release = "true"
 
 # termplotlib #
 [python-termplotlib]
-pypi="termplotlib"
+pypi = "termplotlib"
 source = "pypi"
 
 [aur-python-termplotlib]
-aur="python-termplotlib"
+aur = "python-termplotlib"
 source = "aur"
-strip_release="true"
+strip_release = "true"
 
 # viztracer #
 [python-viztracer]
-pypi="viztracer"
-source="pypi"
+pypi = "viztracer"
+source = "pypi"
 
 [aur-python-viztracer]
-aur="python-viztracer"
-source="aur"
-strip_release="true"
+aur = "python-viztracer"
+source = "aur"
+strip_release = "true"
 
 # snippy #
 [github-snippy]
@@ -590,10 +594,9 @@ source = "github"
 use_max_tag = true
 
 [aur-snippy]
-aur="snippy"
-source="aur"
-strip_release="true"
-
+aur = "snippy"
+source = "aur"
+strip_release = "true"
 
 # spades #
 [github-spades]
@@ -602,33 +605,31 @@ source = "github"
 use_max_tag = true
 
 [aur-spades]
-aur="spades"
-source="aur"
-strip_release="true"
+aur = "spades"
+source = "aur"
+strip_release = "true"
 
 # megahit #
-
 [github-megahit]
 github = "voutcn/megahit"
 source = "github"
 use_max_tag = true
 
 [aur-megahit]
-aur="megahit"
-source="aur"
-strip_release="true"
+aur = "megahit"
+source = "aur"
+strip_release = "true"
 
 # samclip #
-
 [github-samclip]
 github = "tseemann/samclip"
 source = "github"
 use_max_tag = true
 
 [aur-samclip]
-aur="samclip"
-source="aur"
-strip_release="true"
+aur = "samclip"
+source = "aur"
+strip_release = "true"
 
 # lighter #
 
@@ -638,9 +639,9 @@ source = "github"
 use_max_tag = true
 
 [aur-lighter]
-aur="lighter"
-source="aur"
-strip_release="true"
+aur = "lighter"
+source = "aur"
+strip_release = "true"
 
 # unicycler #
 [github-unicycler]
@@ -649,9 +650,9 @@ source = "github"
 use_max_tag = true
 
 [aur-unicycler]
-aur="unicycler"
-source="aur"
-strip_release="true"
+aur = "unicycler"
+source = "aur"
+strip_release = "true"
 
 # unicycler #
 [github-skesa]
@@ -660,6 +661,16 @@ source = "github"
 use_max_tag = true
 
 [aur-skesa]
-aur="skesa"
-source="aur"
-strip_release="true"
+aur = "skesa"
+source = "aur"
+strip_release = "true"
+
+# nodejs-ts-standard #
+[npm-ts-standard]
+npm = "ts-standard"
+source = "npm"
+
+[aur-ts-standard]
+aur = "nodejs-ts-standard"
+source = "aur"
+strip_release = "true"
