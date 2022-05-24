@@ -1,6 +1,6 @@
 [__config__]
-newver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/new.json"
-oldver = "/home/pumpkincheshire/Cloud/Develope/aur/.nvchecker/old.json"
+newver = "/home/pumpkincheshire/Grive/Develope/aur/.nvchecker/new.json"
+oldver = "/home/pumpkincheshire/Grive/Develope/aur/.nvchecker/old.json"
 prefix = "v"
 
 # cockpit-navigator #

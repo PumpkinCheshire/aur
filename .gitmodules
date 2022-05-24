@@ -254,5 +254,11 @@ url = ssh://aur@aur.archlinux.org/python-pytweening.git
 path = cockpit-navigator
 url = ssh://aur@aur.archlinux.org/cockpit-navigator.git
 [submodule "nodejs-ts-standard"]
-	path = nodejs-ts-standard
-	url = ssh://aur@aur.archlinux.org/nodejs-ts-standard.git
+path = nodejs-ts-standard
+url = ssh://aur@aur.archlinux.org/nodejs-ts-standard.git
+[submodule "python-pygraphviz"]
+path = python-pygraphviz
+url = ssh://aur@aur.archlinux.org/python-pygraphviz.git
+[submodule "python-lizard"]
+	path = python-lizard
+	url = ssh://aur@aur.archlinux.org/python-lizard.git
